@@ -1,4 +1,4 @@
-# Blinkit Data Analysis Dashboard ??
+# Blinkit Data Analysis Dashboard
 
 A Power BI dashboard designed to analyze **Blinkit's sales performance, customer ratings, product distribution, and outlet-level trends**. The project transforms retail data into an interactive dashboard that helps identify sales patterns, customer preferences, and opportunities for business optimization.
 
@@ -124,10 +124,10 @@ These observations are specific to the dataset used in this project and should b
 
 ## ??? Tools & Technologies
 
-- **Microsoft Power BI** — Dashboard creation and visualization
-- **Data Analysis** — KPI and performance analysis
-- **Data Visualization** — Interactive charts and graphs
-- **Business Intelligence** — Sales, product, and outlet analysis
+- **Microsoft Power BI** ï¿½ Dashboard creation and visualization
+- **Data Analysis** ï¿½ KPI and performance analysis
+- **Data Visualization** ï¿½ Interactive charts and graphs
+- **Business Intelligence** ï¿½ Sales, product, and outlet analysis
 
 ---
 

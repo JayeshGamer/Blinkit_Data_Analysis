@@ -1,4 +1,4 @@
-# Blinkit Data Analysis Dashboard
+# Blinkit Data Analysis Dashboard 📊
 
 A Power BI dashboard designed to analyze **Blinkit's sales performance, customer ratings, product distribution, and outlet-level trends**. The project transforms retail data into an interactive dashboard that helps identify sales patterns, customer preferences, and opportunities for business optimization.
 
@@ -9,7 +9,7 @@ A Power BI dashboard designed to analyze **Blinkit's sales performance, customer
 
 ---
 
-## ?? Project Overview
+## 📌 Project Overview
 
 The **Blinkit Data Analysis Dashboard** provides an interactive view of key business metrics across products and outlets. It combines sales, product, customer-rating, and outlet information into a single analytical dashboard.
 
@@ -28,7 +28,7 @@ Interactive filters allow users to explore the data from different perspectives 
 
 ---
 
-## ?? Key Performance Indicators
+## 🎯 Key Performance Indicators
 
 | KPI | Value | Description |
 |---|---:|---|
@@ -41,7 +41,7 @@ These KPIs provide a quick overview of the overall performance represented in th
 
 ---
 
-## ?? Dashboard Features
+## 🔎 Dashboard Features
 
 ### 1. Interactive Filters
 
@@ -104,7 +104,7 @@ This provides a broader view of outlet performance beyond revenue alone.
 
 ---
 
-## ?? Key Insights
+## 💡 Key Insights
 
 Based on the analysis presented in the dashboard:
 
@@ -122,16 +122,16 @@ These observations are specific to the dataset used in this project and should b
 
 ---
 
-## ??? Tools & Technologies
+## 🛠️ Tools & Technologies
 
-- **Microsoft Power BI** � Dashboard creation and visualization
-- **Data Analysis** � KPI and performance analysis
-- **Data Visualization** � Interactive charts and graphs
-- **Business Intelligence** � Sales, product, and outlet analysis
+- **Microsoft Power BI** — Dashboard creation and visualization
+- **Data Analysis** — KPI and performance analysis
+- **Data Visualization** — Interactive charts and graphs
+- **Business Intelligence** — Sales, product, and outlet analysis
 
 ---
 
-## ?? Project Objectives
+## 📊 Project Objectives
 
 The main objectives of this project are to:
 
@@ -146,18 +146,18 @@ The main objectives of this project are to:
 
 ---
 
-## ?? Project Structure
+## 📁 Project Structure
 
 ```text
 Blinkit-Data-Analysis/
-?
-??? Dashboard/
-?   ??? Blinkit_Data_Analysis.pbix
-?
-??? Dataset/
-?   ??? blinkit_data.csv
-?
-??? Screenshots/
-?   ??? dashboard-preview.png
-?
-??? README.md
+│
+├── Dashboard/
+│   └── Blinkit_Data_Analysis.pbix
+│
+├── Dataset/
+│   └── blinkit_data.csv
+│
+├── Screenshots/
+│   └── dashboard-preview.png
+│
+└── README.md
